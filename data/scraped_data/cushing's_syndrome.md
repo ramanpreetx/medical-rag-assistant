@@ -1,0 +1,12 @@
+Cushing's syndrome is a hormonal disorder. The cause is long-term exposure to too much cortisol, a hormone that your adrenal gland makes. Sometimes, taking synthetic hormone medicine to treat an inflammatory disease leads to Cushing's. Some kinds of tumors produce a hormone that can cause your body to make too much cortisol.
+
+Cushing's syndrome is rare. Some symptoms are:
+
+- Upper body obesity
+- Thin arms and legs
+- Severe fatigue and muscle weakness
+- High blood pressure
+- High blood sugar
+- Easy bruising
+
+Lab tests can show if you have it and find the cause. Your treatment will depend on why you have too much cortisol. If it is because you have been taking synthetic hormones, a lower dose may control your symptoms. If the cause is a tumor, surgery and other therapies may be needed.

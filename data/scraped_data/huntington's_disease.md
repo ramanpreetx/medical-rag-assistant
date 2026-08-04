@@ -1,0 +1,5 @@
+Huntington's disease (HD) is an inherited disease that causes certain nerve cells in the brain to waste away. People are born with the defective gene, but symptoms usually don't appear until middle age. Early symptoms of HD may include uncontrolled movements, clumsiness, and balance problems. Later, HD can take away the ability to walk, talk, and swallow. Some people stop recognizing family members. Others are aware of their environment and are able to express emotions.
+
+If one of your parents has Huntington's disease, you have a 50% chance of getting it. A blood test can tell you if have the HD gene and will develop the disease. Genetic counseling can help you weigh the risks and benefits of taking the test.
+
+There is no cure.  Medicines can help manage some of the symptoms, but cannot slow down or stop the disease.

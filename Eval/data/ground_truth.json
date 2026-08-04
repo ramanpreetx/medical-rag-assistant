@@ -1,0 +1,7654 @@
+[
+  {
+    "id": 1,
+    "question": "What causes obesity?",
+    "labels": [
+      {
+        "chunk_id": "traumatic_brain_injury_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cerebral_palsy_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_prevent_heart_disease_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "metabolic_syndrome_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "obesity_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "raynaud_phenomenon_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "fifth_disease_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "klinefelter_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "obesity_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "obesity_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "body_weight_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lewy_body_dementia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "opioid_use_disorder_(oud)_treatment_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "weight_control_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "malnutrition_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "weight_control_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "metabolic_syndrome_c3",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What is the best treatment for obesity?",
+    "labels": [
+      {
+        "chunk_id": "weight_control_c7",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "how_to_prevent_heart_disease_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "obesity_c7",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "crohn's_disease_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "alcohol_use_disorder_(aud)_treatment_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "metabolic_syndrome_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "steatotic_liver_disease_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "obesity_c6",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "obesity_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "hpv_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "phenylketonuria_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pain_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_lower_cholesterol_with_diet_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "obesity_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "weight_control_c8",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "cervical_cancer_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hepatitis_a_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eosinophilic_esophagitis_c8",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Does obesity increase the risk of cancer?",
+    "labels": [
+      {
+        "chunk_id": "benefits_of_exercise_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "uterine_cancer_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "thyroid_cancer_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_prevent_heart_disease_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lung_cancer_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "obesity_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "evaluating_health_information_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "birth_defects_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "uterine_cancer_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "colorectal_cancer_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "ovarian_cancer_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "obesity_c5",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "lung_cancer_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cholesterol_levels_what_you_need_to_know_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "breast_cancer_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "cancer_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "rheumatoid_arthritis_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "How is obesity diagnosed?",
+    "labels": [
+      {
+        "chunk_id": "metabolic_syndrome_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "obesity_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "metabolic_syndrome_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "birth_defects_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cryptosporidiosis_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "urinary_incontinence_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diabetes_and_pregnancy_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "triglycerides_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "obesity_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eosinophilic_esophagitis_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "body_weight_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "arthritis_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "obesity_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "atherosclerosis_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diabetic_heart_disease_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "weight_control_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "obesity_in_children_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eating_disorders_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "obesity_c3",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "what are the symptoms of multiple myeloma?",
+    "labels": [
+      {
+        "chunk_id": "juvenile_arthritis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "spinal_muscular_atrophy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "acute_lymphocytic_leukemia_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "uterine_fibroids_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "chronic_lymphocytic_leukemia_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "multiple_myeloma_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lymphoma_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "leukemia_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aphasia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sarcoidosis_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "optic_nerve_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "myelodysplastic_syndromes_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "peripheral_nerve_disorders_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "acute_myeloid_leukemia_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "primary_ovarian_insufficiency_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "thyroid_cancer_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "multiple_myeloma_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "hodgkin_lymphoma_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "twins,_triplets,_multiple_births_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "What exactly is an ectopic pregnancy?",
+    "labels": [
+      {
+        "chunk_id": "pregnancy_and_opioids_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "intimate_partner_violence_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ectopic_pregnancy_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "pelvic_inflammatory_disease_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "infections_and_pregnancy_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "endometriosis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_in_pregnancy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ectopic_pregnancy_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "tumors_and_pregnancy_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tubal_ligation_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ectopic_pregnancy_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "ectopic_pregnancy_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "chlamydia_infections_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "miscarriage_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "abortion_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "what are the early signs of ectopic pregnancy?",
+    "labels": [
+      {
+        "chunk_id": "miscarriage_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_in_pregnancy_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "preterm_labor_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ectopic_pregnancy_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "pelvic_inflammatory_disease_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "infections_and_pregnancy_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "health_problems_in_pregnancy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "down_syndrome_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cerebral_palsy_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ectopic_pregnancy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pelvic_inflammatory_disease_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aphasia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cervix_disorders_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ectopic_pregnancy_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "ectopic_pregnancy_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mammography_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "health_problems_in_pregnancy_c4",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Do nursing homes provide 24-hour care?",
+    "labels": [
+      {
+        "chunk_id": "hospice_care_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "scabies_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "prenatal_care_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "home_care_services_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cancer_alternative_therapies_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "nursing_homes_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "alzheimer's_caregivers_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "health_occupations_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "caregivers_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tuberculosis_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "assisted_living_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "critical_care_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "assisted_living_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "caregivers_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "reflux_in_infants_c8",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Do nursing homes provide medical care?",
+    "labels": [
+      {
+        "chunk_id": "hospice_care_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "scabies_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "prenatal_care_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "home_care_services_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "health_facilities_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cancer_alternative_therapies_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "rehabilitation_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "nursing_homes_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "alzheimer's_caregivers_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "health_occupations_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "caregiver_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tuberculosis_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lewy_body_dementia_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "assisted_living_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "critical_care_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "assisted_living_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "caregivers_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Should I shave off a corn or callus?",
+    "labels": [
+      {
+        "chunk_id": "diabetic_foot_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "warts_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "circumcision_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cervical_cancer_screening_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diabetic_foot_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diabetic_foot_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cervical_cancer_screening_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "skin_cancer_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diabetic_foot_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tanning_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "medical_ethics_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "childhood_vaccines_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mrsa_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mobility_aids_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "radon_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pregnancy_and_medicines_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "skin_conditions_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "corns_and_calluses_c1",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "What happens during bypass surgery?",
+    "labels": [
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "angioplasty_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c3",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "heart_surgery_c9",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "after_surgery_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heart_surgery_c7",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "knee_replacement_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c4",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "vitamin_d_deficiency_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heart_surgery_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "angioplasty_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heart_surgery_c1",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "When is bypass surgery needed?",
+    "labels": [
+      {
+        "chunk_id": "adenoids_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "oil_spills_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heart_surgery_c9",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heart_surgery_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiccups_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "back_pain_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vitamin_d_deficiency_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heart_transplantation_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heart_surgery_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "acne_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heart_surgery_c1",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Can I have another blocked artery after bypass surgery?",
+    "labels": [
+      {
+        "chunk_id": "heart_failure_c10",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sudden_cardiac_arrest_c9",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c5",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "stroke_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "sudden_cardiac_arrest_c10",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heart_surgery_c9",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "angioplasty_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heart_surgery_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heart_surgery_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "angioplasty_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heart_surgery_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "what is tinea and ist symptoms?",
+    "labels": [
+      {
+        "chunk_id": "spinal_muscular_atrophy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ergonomics_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vldl_cholesterol_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "trichomoniasis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "back_pain_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "raynaud_phenomenon_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aphasia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sjogren's_syndrome_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tinea_infections_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "staphylococcal_infections_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "acne_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "toddler_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "skin_infections_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vaginitis_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "dandruff,_cradle_cap,_and_other_scalp_conditions_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bowel_movement_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "nutrition_for_older_adults_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lyme_disease_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "endocarditis_c6",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "what is rh factor?",
+    "labels": [
+      {
+        "chunk_id": "rh_incompatibility_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "ergonomics_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "bleeding_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "back_pain_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "rh_incompatibility_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "aphasia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_count_tests_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bleeding_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "teen_sexual_health_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hypoglycemia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "peripheral_nerve_disorders_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aphasia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "toddler_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "rh_incompatibility_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "bowel_movement_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "rh_incompatibility_c4",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "what causes rh incompatibility?",
+    "labels": [
+      {
+        "chunk_id": "congenital_heart_defects_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "rh_incompatibility_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "rh_incompatibility_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "health_problems_in_pregnancy_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "osteonecrosis_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "rh_incompatibility_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "oil_spills_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "rheumatoid_arthritis_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "parathyroid_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hypoglycemia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiccups_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aphasia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pain_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "thoracic_outlet_syndrome_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "rh_incompatibility_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "acne_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Can Rh incompatibility affect my baby?",
+    "labels": [
+      {
+        "chunk_id": "health_problems_in_pregnancy_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "rh_incompatibility_c3",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "rh_incompatibility_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "congenital_heart_defects_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "childbirth_problems_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eye_care_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mental_health_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "rh_incompatibility_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "pregnancy_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cerebral_palsy_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "birth_weight_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_pregnancy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "rh_incompatibility_c4",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "How does health insurance work?",
+    "labels": [
+      {
+        "chunk_id": "antidepressants_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "medicare_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "health_facilities_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "medicaid_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "health_checkup_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "health_occupations_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_prep_and_pep_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "managed_care_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "blood_pressure_medicines_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "women's_health_checkup_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cancer_immunotherapy_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "home_care_services_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "health_insurance_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "immune_system_and_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "birth_control_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "financial_assistance_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Why does it hurt when I swallow?",
+    "labels": [
+      {
+        "chunk_id": "sore_throat_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "esophageal_cancer_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "gerd_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "falls_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "schizophrenia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "esophagus_disorders_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "swallowing_disorders_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "intimate_partner_violence_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "dual_diagnosis_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "gerd_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "throat_disorders_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "vitamin_d_deficiency_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mouth_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "circumcision_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tick_bites_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tongue_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "intimate_partner_violence_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eye_care_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "childhood_vaccines_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "esophagus_disorders_c4",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "How is a swallowing disorder treated?",
+    "labels": [
+      {
+        "chunk_id": "head_and_neck_cancer_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ischemic_stroke_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "personality_disorders_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "opioids_and_opioid_use_disorder_(oud)_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heroin_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "swallowing_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "gerd_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "swallowing_disorders_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "muscular_dystrophy_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "opioids_and_opioid_use_disorder_(oud)_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "obsessive-compulsive_disorder_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aphasia_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "esophagus_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eosinophilic_esophagitis_c6",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "rh_incompatibility_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "migraine_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eosinophilic_esophagitis_c8",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "progressive_supranuclear_palsy_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemorrhagic_stroke_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "teen_depression_c4",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "who is most likely to get facial paralysis?",
+    "labels": [
+      {
+        "chunk_id": "charcot-marie-tooth_disease_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "facial_injuries_and_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carpal_tunnel_syndrome_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "progressive_supranuclear_palsy_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "meningococcal_disease_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "copd_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "stuttering_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tuberculosis_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bell's_palsy_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "temporomandibular_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mitral_valve_prolapse_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "scleroderma_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "paralysis_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "cryptosporidiosis_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "acute_flaccid_myelitis_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eczema_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tuberculosis_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c3",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "How long does it take to recover from bell's palsy?",
+    "labels": [
+      {
+        "chunk_id": "myasthenia_gravis_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "stroke_rehabilitation_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "infectious_mononucleosis_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "stroke_rehabilitation_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "antidepressants_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "safe_opioid_use_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "radiation_exposure_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "progressive_supranuclear_palsy_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "knee_replacement_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "after_surgery_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cesarean_delivery_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bell's_palsy_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "concussion_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "stroke_rehabilitation_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "paralysis_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "polio_and_post-polio_syndrome_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "guillain-barre_syndrome_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "brachial_plexus_injuries_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_prep_and_pep_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "antidepressants_c6",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "How do I know if I have high blood pressure?",
+    "labels": [
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "blood_pressure_medicines_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_in_pregnancy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "mental_health_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "safe_opioid_use_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_in_pregnancy_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_cholesterol_in_children_and_teens_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "diabetes_and_pregnancy_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "vital_signs_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "high_blood_pressure_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "alcohol_use_disorder_(aud)_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "low_blood_pressure_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Is high blood pressure dangerous?",
+    "labels": [
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c10",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "blood_pressure_medicines_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_in_pregnancy_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "high_blood_pressure_in_pregnancy_c7",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "high_blood_pressure_c4",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "heart_disease_in_women_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_in_pregnancy_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_in_pregnancy_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_in_pregnancy_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vital_signs_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_prevent_heart_disease_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "low_blood_pressure_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "How can I lower my blood pressure?",
+    "labels": [
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c8",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c7",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "diabetic_kidney_problems_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cholesterol_c10",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_pressure_medicines_c4",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "high_blood_pressure_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "blood_pressure_medicines_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "ldl_the_bad_cholesterol_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_pressure_medicines_c3",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "how_to_lower_cholesterol_with_diet_c6",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "vldl_cholesterol_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ldl_the_bad_cholesterol_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_pressure_medicines_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "high_blood_pressure_c4",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "cholesterol_levels_what_you_need_to_know_c9",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c9",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "diabetic_foot_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "teen_sexual_health_c3",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "How do doctors check for high blood pressure?",
+    "labels": [
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eosinophilic_esophagitis_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "blood_pressure_medicines_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hyperglycemia_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_in_pregnancy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "high_blood_pressure_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_in_pregnancy_c9",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_in_pregnancy_c8",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "high_blood_pressure_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "vital_signs_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "how_to_prevent_heart_disease_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "low_blood_pressure_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "How are pituitary tumors treated?",
+    "labels": [
+      {
+        "chunk_id": "von_hippel-lindau_disease_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "brain_tumors_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "personality_disorders_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pituitary_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "childhood_brain_tumors_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "adrenal_gland_disorders_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "adrenal_gland_cancer_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "adrenal_gland_disorders_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "skin_infections_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "prostate_cancer_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "head_and_neck_cancer_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "migraine_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pituitary_tumors_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "childhood_brain_tumors_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "refractive_errors_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "testicular_cancer_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "uterine_cancer_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "kaposi_sarcoma_c5",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "What is a pituitary tumor?",
+    "labels": [
+      {
+        "chunk_id": "pituitary_disorders_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "childhood_brain_tumors_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "growth_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "brain_tumors_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "adrenal_gland_disorders_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "benign_tumors_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "carcinoid_tumors_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tumors_and_pregnancy_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hypothyroidism_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pulmonary_embolism_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "klinefelter_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "acoustic_neuroma_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pheochromocytoma_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pituitary_tumors_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "growth_disorders_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "diabetes_insipidus_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Is marijuana is dangerous for health?",
+    "labels": [
+      {
+        "chunk_id": "alcohol_use_disorder_(aud)_treatment_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pregnancy_and_substance_use_c6",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "quitting_smoking_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "marijuana_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "how_to_improve_mental_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "marijuana_c3",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "teen_sexual_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bone_density_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "marijuana_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "drug_use_and_addiction_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "smoking_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "shingles_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "marijuana_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "marijuana_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "drugs_and_young_people_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "bone_density_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Can marijuana treat diseases?",
+    "labels": [
+      {
+        "chunk_id": "chronic_bronchitis_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "infectious_diseases_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "infectious_diseases_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heart_valve_diseases_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pregnancy_and_substance_use_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "marijuana_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "marijuana_c4",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "marijuana_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "autoimmune_diseases_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "infectious_diseases_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "marijuana_c5",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "hiv_in_women_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "neurofibromatosis_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "autoimmune_diseases_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "marijuana_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "uterine_diseases_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "What are the early treatments for meningitis?",
+    "labels": [
+      {
+        "chunk_id": "meningococcal_disease_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carpal_tunnel_syndrome_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "turner_syndrome_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_in_women_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "meningitis_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "down_syndrome_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "klinefelter_syndrome_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ebola_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "endocarditis_c9",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "meningitis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "meningococcal_disease_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "meningococcal_disease_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "chlamydia_infections_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cerebral_palsy_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "meningococcal_disease_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "infectious_mononucleosis_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "acute_flaccid_myelitis_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "infections_and_pregnancy_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "legionnaires'_disease_c5",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Why is my wrist swollen?",
+    "labels": [
+      {
+        "chunk_id": "wrist_injuries_and_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "wrist_injuries_and_disorders_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "wrist_injuries_and_disorders_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tendinitis_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "wrist_injuries_and_disorders_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "carpal_tunnel_syndrome_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carpal_tunnel_syndrome_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_improve_mental_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eye_care_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sprains_and_strains_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "carpal_tunnel_syndrome_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "mental_health_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carpal_tunnel_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carpal_tunnel_syndrome_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "wrist_injuries_and_disorders_c4",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Will I need an X-ray for my swollen wrist?",
+    "labels": [
+      {
+        "chunk_id": "adenoids_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "wrist_injuries_and_disorders_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tendinitis_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "sarcoidosis_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carpal_tunnel_syndrome_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "stress_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "chagas_disease_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "teen_sexual_health_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "x-rays_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "wrist_injuries_and_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "safe_opioid_use_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "wrist_injuries_and_disorders_c4",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "hepatitis_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "x-rays_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carpal_tunnel_syndrome_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "atrial_fibrillation_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "wrist_injuries_and_disorders_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carpal_tunnel_syndrome_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "hemorrhoids_c5",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Treatments for wrist pain?",
+    "labels": [
+      {
+        "chunk_id": "wrist_injuries_and_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "wrist_injuries_and_disorders_c5",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "pain_c6",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "rotator_cuff_injuries_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "osteoarthritis_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "wrist_injuries_and_disorders_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "wrist_injuries_and_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carpal_tunnel_syndrome_c7",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "pain_relievers_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "carpal_tunnel_syndrome_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carpal_tunnel_syndrome_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sickle_cell_disease_c9",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carpal_tunnel_syndrome_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carpal_tunnel_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "wrist_injuries_and_disorders_c4",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "pain_c5",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "What is tetanus?",
+    "labels": [
+      {
+        "chunk_id": "progressive_supranuclear_palsy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vaccine_safety_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diphtheria_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "prostate_diseases_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "klinefelter_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "gastroenteritis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "botox_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vaccines_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "childhood_vaccines_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tetanus,_diphtheria,_and_pertussis_vaccines_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "whooping_cough_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "polio_and_post-polio_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hepatitis_a_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diverticulosis_and_diverticulitis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_glucose_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hodgkin_lymphoma_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "infectious_mononucleosis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hepatitis_b_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tetanus,_diphtheria,_and_pertussis_vaccines_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "tetanus_c1",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "what causes facial pain?",
+    "labels": [
+      {
+        "chunk_id": "pain_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "neck_injuries_and_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "facial_injuries_and_disorders_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "fetal_alcohol_spectrum_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "trigeminal_neuralgia_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "temporomandibular_disorders_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "chronic_pain_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "elbow_injuries_and_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "period_pain_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "polycystic_ovary_syndrome_c10",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bell's_palsy_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "pain_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "fibromyalgia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "chronic_pain_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pain_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "botox_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pain_c5",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "what is anemia?",
+    "labels": [
+      {
+        "chunk_id": "anemia_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "aplastic_anemia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aplastic_anemia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "back_pain_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "myelodysplastic_syndromes_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aphasia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "iron_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_count_tests_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "acute_myeloid_leukemia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "iron_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "teen_sexual_health_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "anemia_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "bone_marrow_diseases_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hypoglycemia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aphasia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "thalassemia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "toddler_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aplastic_anemia_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bowel_movement_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "what causes anemia?",
+    "labels": [
+      {
+        "chunk_id": "anemia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aplastic_anemia_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "iron_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "iron_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "b_vitamins_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "aplastic_anemia_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "osteonecrosis_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "anemia_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "oil_spills_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hypoglycemia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aphasia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bone_marrow_diseases_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "iron_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "aplastic_anemia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pain_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "acne_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "thoracic_outlet_syndrome_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "thalassemia_c1",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "what is HIV?",
+    "labels": [
+      {
+        "chunk_id": "hiv_medicines_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "living_with_hiv_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "hiv_in_women_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "aphasia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_pregnancy_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_in_women_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "hiv_and_infections_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "hiv_in_women_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "bowel_movement_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "back_pain_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "hiv_c1",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "what is opportunistic infection (OIs)?",
+    "labels": [
+      {
+        "chunk_id": "hiv_and_infections_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "cryptosporidiosis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "osteogenesis_imperfecta_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pelvic_inflammatory_disease_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "infections_and_pregnancy_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_infections_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "living_with_hiv_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "sjogren's_syndrome_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "encephalitis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "aphasia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_infections_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "hiv_and_infections_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pneumonia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "opioids_and_opioid_use_disorder_(oud)_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "polio_and_post-polio_syndrome_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "what are the different causes of OIs?",
+    "labels": [
+      {
+        "chunk_id": "osteogenesis_imperfecta_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "spinal_muscular_atrophy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_infections_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_infections_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "primary_ovarian_insufficiency_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_infections_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "glaucoma_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "primary_ovarian_insufficiency_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pneumonia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "osteogenesis_imperfecta_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_infections_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "encephalitis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "stuttering_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "rheumatoid_arthritis_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "thoracic_outlet_syndrome_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lupus_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "primary_ovarian_insufficiency_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "birthmarks_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiccups_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_c3",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "can OIs be prevented?",
+    "labels": [
+      {
+        "chunk_id": "hiv_and_infections_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "opioid_overdose_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "osteogenesis_imperfecta_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "osteogenesis_imperfecta_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pneumonia_c10",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_infections_c4",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "radiation_exposure_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tooth_decay_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "osteoporosis_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eye_diseases_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_infections_c3",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "hiv_and_infections_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "gastroenteritis_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "enlarged_prostate_(bph)_c9",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sexual_assault_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "post-covid_conditions_(long_covid)_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cryptosporidiosis_c6",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "What is hemophilia?",
+    "labels": [
+      {
+        "chunk_id": "hemophilia_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "hemophilia_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "hemophilia_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "hemophilia_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bleeding_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "infectious_mononucleosis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "prostate_diseases_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hepatitis_b_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "klinefelter_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "hepatitis_a_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bleeding_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "What causes hemophilia?",
+    "labels": [
+      {
+        "chunk_id": "hemophilia_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "cerebral_palsy_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "hemophilia_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "hemophilia_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "raynaud_phenomenon_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bleeding_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "hemophilia_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "klinefelter_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lewy_body_dementia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "bleeding_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "fifth_disease_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "How is hemophilia treated?",
+    "labels": [
+      {
+        "chunk_id": "rh_incompatibility_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "hemophilia_c8",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "personality_disorders_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heroin_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "porphyria_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bleeding_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "hemophilia_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ischemic_stroke_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c7",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "hemorrhagic_stroke_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemophilia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "thalassemia_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Why is there blood in my urine?",
+    "labels": [
+      {
+        "chunk_id": "adenoids_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cholesterol_levels_what_you_need_to_know_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "kidney_tests_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "mammography_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "laboratory_tests_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "ectopic_pregnancy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "gout_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bleeding_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "bladder_cancer_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "childhood_leukemia_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "urinary_tract_infections_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "how_to_improve_mental_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "g6pd_deficiency_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "radon_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "urinalysis_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "potassium_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "childhood_vaccines_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "smoking_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diabetic_kidney_problems_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_cholesterol_in_children_and_teens_c3",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "What is tonsillitis?",
+    "labels": [
+      {
+        "chunk_id": "sore_throat_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "throat_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "tonsillitis_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "streptococcal_infections_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "blood_glucose_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "infectious_mononucleosis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "adenoids_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "prostate_diseases_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hepatitis_b_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "tonsillitis_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hepatitis_a_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "What causes tonsillitis?",
+    "labels": [
+      {
+        "chunk_id": "sore_throat_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "throat_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "croup_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cerebral_palsy_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "streptococcal_infections_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "tonsillitis_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "raynaud_phenomenon_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "klinefelter_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "infectious_mononucleosis_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lewy_body_dementia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "tonsillitis_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "fifth_disease_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "What are the symptoms of tonsillitis?",
+    "labels": [
+      {
+        "chunk_id": "flu_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "meningococcal_disease_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c6",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "autoimmune_diseases_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "tooth_disorders_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "diphtheria_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "common_cold_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sjogren's_syndrome_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pneumonia_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tonsillitis_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "peripheral_nerve_disorders_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "anal_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c3",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "what is cervical cancer?",
+    "labels": [
+      {
+        "chunk_id": "cervix_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cervical_cancer_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cervical_cancer_screening_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hpv_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cervical_cancer_screening_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cervical_cancer_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "anal_cancer_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cervical_cancer_screening_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "cervical_cancer_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "cervical_cancer_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cervical_cancer_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cervical_cancer_c6",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "How do I clean my dentures?",
+    "labels": [
+      {
+        "chunk_id": "tooth_decay_c9",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tooth_disorders_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "germs_and_hygiene_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "dentures_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "high_cholesterol_in_children_and_teens_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "dental_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tanning_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diabetic_foot_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tooth_decay_c10",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tick_bites_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "guide_to_good_posture_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hdl_the_good_cholesterol_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tooth_decay_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "child_dental_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_pregnancy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "temporomandibular_disorders_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cleaning,_disinfecting,_and_sanitizing_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cholesterol_levels_what_you_need_to_know_c9",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "benefits_of_exercise_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "dentures_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "What are dentures?",
+    "labels": [
+      {
+        "chunk_id": "tooth_decay_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "adenoids_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "infectious_diseases_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tooth_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vaccines_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "dentures_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "mouth_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "jaw_injuries_and_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carbohydrates_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "temporomandibular_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "birth_control_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mouth_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "non-drug_pain_management_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "personality_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "inhalants_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eating_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "orthodontia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pain_relievers_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "dentures_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "temporomandibular_disorders_c6",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "what cause paralysis?",
+    "labels": [
+      {
+        "chunk_id": "botox_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "talking_with_your_doctor_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "stress_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "back_pain_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tremor_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "myasthenia_gravis_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aphasia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "migraine_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pain_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "neuromuscular_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "disabilities_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "encephalitis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bell's_palsy_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "muscle_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "peripheral_nerve_disorders_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "guillain-barre_syndrome_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "paralysis_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "movement_disorders_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "acne_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "amyotrophic_lateral_sclerosis_c1",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "what is valley fever and how to treat it?",
+    "labels": [
+      {
+        "chunk_id": "valley_fever_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "chickenpox_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "food_allergy_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vaccine_safety_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "dengue_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "fifth_disease_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "colorectal_cancer_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pain_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "fever_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vitamin_d_deficiency_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "smallpox_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ebola_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "fever_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "toddler_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mpox_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemorrhagic_fevers_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "clinical_trials_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "valley_fever_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "nuclear_scans_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "leishmaniasis_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Who is most likely to get Valley fever?",
+    "labels": [
+      {
+        "chunk_id": "west_nile_virus_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cryptosporidiosis_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemorrhagic_fevers_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sepsis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "atrial_fibrillation_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "valley_fever_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "pneumonia_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "chagas_disease_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "stuttering_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tuberculosis_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mitral_valve_prolapse_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bird_flu_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mosquito_bites_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "meningococcal_disease_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "valley_fever_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "myalgic_encephalomyelitischronic_fatigue_syndrome_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "encephalitis_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "What is a carbohydrate metabolism disorder?",
+    "labels": [
+      {
+        "chunk_id": "panic_disorder_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mitochondrial_diseases_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hypoglycemia_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bipolar_disorder_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "alcohol_use_disorder_(aud)_treatment_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "dietary_fiber_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "panic_disorder_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heroin_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hyperglycemia_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "primary_ovarian_insufficiency_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "phenylketonuria_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lipid_metabolism_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carbohydrates_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lipid_metabolism_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "amino_acid_metabolism_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "metabolic_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "cervix_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bipolar_disorder_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carbohydrate_metabolism_disorders_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "metabolic_disorders_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Can metabolic disorders be inherited?",
+    "labels": [
+      {
+        "chunk_id": "genetic_disorders_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "metabolic_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mitochondrial_diseases_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "anemia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tooth_disorders_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "metabolic_syndrome_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lipid_metabolism_disorders_c3",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "metabolic_syndrome_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "genetic_brain_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "peripheral_nerve_disorders_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "metabolic_syndrome_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "amino_acid_metabolism_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "steatotic_liver_disease_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carbohydrate_metabolism_disorders_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "metabolic_syndrome_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "genetic_brain_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carbohydrate_metabolism_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "metabolic_disorders_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "What if I want to get pregnant and my partner has HIV?",
+    "labels": [
+      {
+        "chunk_id": "prenatal_care_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "teenage_pregnancy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_prep_and_pep_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "hiv_in_women_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_pregnancy_c5",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "hiv_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_pregnancy_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "intimate_partner_violence_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "safe_opioid_use_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_pregnancy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "living_with_hiv_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_cholesterol_in_children_and_teens_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "teen_sexual_health_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pregnancy_and_medicines_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_in_women_c3",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "If I have HIV, how can I prevent giving it to my baby?",
+    "labels": [
+      {
+        "chunk_id": "hiv_prep_and_pep_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diabetic_foot_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hdl_the_good_cholesterol_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_prevent_heart_disease_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_in_women_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_pregnancy_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_pregnancy_c3",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "safe_opioid_use_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_pregnancy_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "mental_health_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sudden_cardiac_arrest_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_pregnancy_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "hiv_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "living_with_hiv_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_and_pregnancy_c4",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "diabetic_foot_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "teen_sexual_health_c3",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "What is a cataract and it's cause?",
+    "labels": [
+      {
+        "chunk_id": "osteoporosis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "atrial_fibrillation_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cataract_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "retinal_detachment_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cataract_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "diabetic_eye_problems_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "menopause_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "refractive_errors_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cataract_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "fractures_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lupus_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cataract_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "eye_diseases_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "hypothyroidism_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "glaucoma_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vision_impairment_and_blindness_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "cataract_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "fatigue_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Why is my vision blurry?",
+    "labels": [
+      {
+        "chunk_id": "giant_cell_arteritis_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "optic_nerve_disorders_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "macular_degeneration_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "vision_impairment_and_blindness_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "refractive_errors_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "cataract_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "refractive_errors_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "how_to_improve_mental_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vision_impairment_and_blindness_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "eye_care_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "color_blindness_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "childhood_vaccines_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mental_health_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vision_impairment_and_blindness_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "refractive_errors_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "amblyopia_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "retinal_disorders_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "eye_care_c10",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "How are cataracts treated?",
+    "labels": [
+      {
+        "chunk_id": "cataract_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cataract_c4",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "vision_impairment_and_blindness_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heroin_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "skin_infections_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cataract_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "migraine_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "skin_infections_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cataract_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "migraine_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "retinal_disorders_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "refractive_errors_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "personality_disorders_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cataract_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diabetic_eye_problems_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "glaucoma_c6",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "When do I need eye surgery?",
+    "labels": [
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eye_care_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "coronary_artery_bypass_surgery_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "glaucoma_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eye_injuries_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "retinal_detachment_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_medicines_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eye_care_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eye_diseases_c4",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "safe_opioid_use_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heart_surgery_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "refractive_errors_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "laser_eye_surgery_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "flu_shot_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tick_bites_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eyewear_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eye_care_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "childhood_vaccines_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eye_care_c9",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Why is my skin red and itchy?",
+    "labels": [
+      {
+        "chunk_id": "rosacea_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "hives_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "vitamin_d_deficiency_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "skin_conditions_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "itching_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "impetigo_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "streptococcal_infections_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "dandruff,_cradle_cap,_and_other_scalp_conditions_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_improve_mental_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "psoriatic_arthritis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "psoriasis_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "jaundice_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "skin_conditions_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mental_health_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "dandruff,_cradle_cap,_and_other_scalp_conditions_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "rashes_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "eczema_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "tinea_infections_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "What can cause pain or problems in my abdomen?",
+    "labels": [
+      {
+        "chunk_id": "reflux_in_children_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diverticulosis_and_diverticulitis_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "non-drug_pain_management_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diverticulosis_and_diverticulitis_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "appendicitis_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "celiac_disease_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "irritable_bowel_syndrome_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "peritoneal_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "toe_injuries_and_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "crohn's_disease_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "gonorrhea_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "chest_pain_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "intestinal_obstruction_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "abdominal_pain_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "autonomic_nervous_system_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "arthritis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "shingles_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "stomach_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "period_pain_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pelvic_pain_c1",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Can a head injury affect my memory?",
+    "labels": [
+      {
+        "chunk_id": "guide_to_good_posture_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "concussion_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eye_care_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "head_injuries_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "concussion_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "head_injuries_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "concussion_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "head_and_neck_cancer_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "gerd_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c4",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "concussion_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c10",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c6",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "what are the symptoms of TBI?",
+    "labels": [
+      {
+        "chunk_id": "concussion_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "spinal_muscular_atrophy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "head_injuries_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "aphasia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c5",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "klinefelter_syndrome_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c3",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "lupus_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "rheumatoid_arthritis_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c4",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "peripheral_nerve_disorders_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c10",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "premenstrual_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lupus_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "infections_and_pregnancy_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "skin_infections_c3",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "How is a brain injury treated?",
+    "labels": [
+      {
+        "chunk_id": "traumatic_brain_injury_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aphasia_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heroin_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "brain_tumors_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "concussion_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "brain_diseases_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "spinal_cord_injuries_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c7",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "ischemic_stroke_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemorrhagic_stroke_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c10",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "traumatic_brain_injury_c8",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "aphasia_c3",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Can you get cancer while pregnant?",
+    "labels": [
+      {
+        "chunk_id": "wrist_injuries_and_disorders_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pregnancy_and_substance_use_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tumors_and_pregnancy_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "breast_cancer_c9",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "prostate_cancer_screening_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "viral_infections_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vaginal_cancer_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "testicular_cancer_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tumors_and_pregnancy_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "fractures_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "anal_cancer_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "prenatal_care_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "health_problems_in_pregnancy_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pregnancy_and_substance_use_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cervical_cancer_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pregnancy_and_substance_use_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "colorectal_cancer_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "smoking_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pregnancy_and_nutrition_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "fetal_health_and_development_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Why am I having trouble walking?",
+    "labels": [
+      {
+        "chunk_id": "teen_depression_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "restless_legs_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "walking_problems_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "nutrition_for_older_adults_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "dizziness_and_vertigo_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "balance_problems_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "intimate_partner_violence_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "balance_problems_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pregnancy_and_opioids_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "prenatal_care_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "nutrition_for_older_adults_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "safe_opioid_use_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "falls_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "foot_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pregnancy_and_opioids_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "walking_problems_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "childhood_vaccines_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "fainting_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "nutrition_for_older_adults_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "walking_problems_c1",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Is there a cure for Friedreich ataxia?",
+    "labels": [
+      {
+        "chunk_id": "turner_syndrome_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "living_with_hiv_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "dementia_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "medical_ethics_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "friedreich_ataxia_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "fetal_alcohol_spectrum_disorders_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "muscular_dystrophy_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "usher_syndrome_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lewy_body_dementia_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "leukodystrophies_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "health_fraud_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "common_cold_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "acute_flaccid_myelitis_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "leukodystrophies_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "endometriosis_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tremor_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bone_density_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tay-sachs_disease_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "myasthenia_gravis_c7",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "what is Hantavirus and its symptoms?",
+    "labels": [
+      {
+        "chunk_id": "rubella_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "spinal_muscular_atrophy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "reye_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vitiligo_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "back_pain_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "measles_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "fifth_disease_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "norovirus_infections_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ebola_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pneumonia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cancer--living_with_cancer_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ebola_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hantavirus_infections_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "staphylococcal_infections_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aphasia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemorrhagic_fevers_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "medicaid_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "clinical_trials_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bowel_movement_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "What is menopause and what are its symptoms?",
+    "labels": [
+      {
+        "chunk_id": "premenstrual_syndrome_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "menopause_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "spinal_muscular_atrophy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "menopause_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "vitiligo_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "menopause_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pneumonia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "menopause_c3",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "menopause_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "primary_ovarian_insufficiency_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aphasia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "menopause_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "menopause_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "flu_shot_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hormone_replacement_therapy_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "medicaid_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "clinical_trials_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heart_disease_in_women_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "menopause_c4",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Why am I having trouble breathing?",
+    "labels": [
+      {
+        "chunk_id": "respiratory_failure_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "respiratory_failure_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "how_to_prevent_heart_disease_c10",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sleep_apnea_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "teen_depression_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "nutrition_for_older_adults_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lung_diseases_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "intimate_partner_violence_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "breathing_problems_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "pregnancy_and_opioids_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pulmonary_rehabilitation_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "prenatal_care_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bronchial_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "nutrition_for_older_adults_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "respiratory_failure_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "safe_opioid_use_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "spinal_muscular_atrophy_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pregnancy_and_opioids_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "childhood_vaccines_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "nutrition_for_older_adults_c6",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "can breathing smoke damage my lungs?",
+    "labels": [
+      {
+        "chunk_id": "chronic_bronchitis_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "copd_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "emphysema_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "oxygen_therapy_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "chronic_bronchitis_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "radon_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cpr_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diabetic_foot_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "emphysema_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eye_care_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "smoking_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "inhalation_injuries_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "smoking_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "inhalation_injuries_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "emphysema_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "smoking_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "emphysema_c9",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "emphysema_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "secondhand_smoke_c1",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "How are inhalation injuries treated?",
+    "labels": [
+      {
+        "chunk_id": "inhalants_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "respiratory_failure_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heroin_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "alpha-1_antitrypsin_deficiency_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "skin_infections_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "inhalation_injuries_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "inhalation_injuries_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "asthma_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "chest_injuries_and_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sprains_and_strains_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "migraine_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "respiratory_failure_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "refractive_errors_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "personality_disorders_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "inhalation_injuries_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "electrical_injuries_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "emphysema_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "chest_injuries_and_disorders_c3",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "How does climate change affect health?",
+    "labels": [
+      {
+        "chunk_id": "alcohol_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "disabilities_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "environmental_health_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "eye_care_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "heat_illness_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "climate_change_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_prevent_diabetes_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_improve_mental_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cholesterol_levels_what_you_need_to_know_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "health_statistics_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mental_health_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "global_health_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "menopause_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "climate_change_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "mosquito_bites_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "disabilities_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "rural_health_concerns_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hypothermia_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "what is HPV and how it can be diagnosed?",
+    "labels": [
+      {
+        "chunk_id": "aplastic_anemia_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hpv_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hpv_c3",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "anal_cancer_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hpv_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "cervical_cancer_screening_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "vulvar_cancer_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cervical_cancer_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "hpv_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "genital_warts_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "juvenile_arthritis_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hpv_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cervical_cancer_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pain_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "genital_warts_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "What is Addison disease?",
+    "labels": [
+      {
+        "chunk_id": "crohn's_disease_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "celiac_disease_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cushing's_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "meningococcal_disease_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "adrenal_gland_disorders_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "primary_ovarian_insufficiency_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "adrenal_gland_disorders_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "kawasaki_disease_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "adrenal_gland_disorders_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "alzheimer's_disease_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "chagas_disease_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lyme_disease_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "addison_disease_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "adrenal_gland_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "adrenal_gland_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "addison_disease_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "endocrine_diseases_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "adrenal_gland_disorders_c4",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "What causes walking problems?",
+    "labels": [
+      {
+        "chunk_id": "movement_disorders_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "movement_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "knee_injuries_and_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "heel_injuries_and_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diabetes_complications_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hip_replacement_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "walking_problems_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "von_hippel-lindau_disease_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "falls_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "walking_problems_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "walking_problems_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "movement_disorders_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "myositis_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "diabetic_foot_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diabetic_eye_problems_c4",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "What can help me walk better?",
+    "labels": [
+      {
+        "chunk_id": "nutrition_for_older_adults_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mobility_aids_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "health_risks_of_an_inactive_lifestyle_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "exercise_and_physical_fitness_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diabetic_foot_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pulmonary_rehabilitation_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "assistive_devices_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "health_risks_of_an_inactive_lifestyle_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mobility_aids_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "guide_to_good_posture_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "benefits_of_exercise_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "stress_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "walking_problems_c3",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "walking_problems_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "benefits_of_exercise_c9",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tick_bites_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "nutrition_for_older_adults_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Why is my blood pressure suddenly very low?",
+    "labels": [
+      {
+        "chunk_id": "high_blood_pressure_in_pregnancy_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "shock_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_pressure_medicines_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sudden_cardiac_arrest_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "dizziness_and_vertigo_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "vaccines_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "falls_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "period_pain_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vital_signs_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "low_blood_pressure_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "low_blood_pressure_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "high_blood_pressure_in_pregnancy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_glucose_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "fainting_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "shock_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "high_blood_pressure_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "smoking_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_c3",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Is shock life-threatening?",
+    "labels": [
+      {
+        "chunk_id": "food_allergy_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "sudden_cardiac_arrest_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sudden_cardiac_arrest_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pregnancy_and_medicines_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "streptococcal_infections_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cpr_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sudden_cardiac_arrest_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "low_blood_pressure_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "medical_ethics_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "first_aid_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "burns_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "shock_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "sudden_cardiac_arrest_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "shock_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "staphylococcal_infections_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cpr_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "what causes long term stress and how i can overcome it?",
+    "labels": [
+      {
+        "chunk_id": "schizophrenia_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "post-traumatic_stress_disorder_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "stress_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "stress_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "coping_with_chronic_illness_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "anxiety_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "acne_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "stress_c3",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "cocaine_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "stress_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "stress_c5",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "caregiver_health_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "rheumatoid_arthritis_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pain_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_improve_mental_health_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "electrical_injuries_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "post-traumatic_stress_disorder_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "what are common mouth problems and how i can prevent them?",
+    "labels": [
+      {
+        "chunk_id": "toddler_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "salivary_gland_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "post-traumatic_stress_disorder_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "common_cold_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mouth_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "dentures_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tooth_disorders_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "tooth_decay_c9",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "endocarditis_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "dry_mouth_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "celiac_disease_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "scleroderma_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "dental_health_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "behcet's_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bad_breath_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "fifth_disease_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mouth_disorders_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "drug_reactions_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "what are the different medicines that can lower blood pressure and how they work?",
+    "labels": [
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_pressure_medicines_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cholesterol_medicines_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "spinal_muscular_atrophy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_pressure_medicines_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "pulmonary_hypertension_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_pressure_medicines_c3",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "atrial_fibrillation_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sickle_cell_disease_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_in_pregnancy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_pressure_medicines_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "high_blood_pressure_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "healthy_aging_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vital_signs_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "statins_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "what is PKU?",
+    "labels": [
+      {
+        "chunk_id": "mitochondrial_diseases_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ergonomics_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "prader-willi_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "back_pain_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "phenylketonuria_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aphasia_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiv_prep_and_pep_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "phenylketonuria_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "teen_sexual_health_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lipid_metabolism_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hypoglycemia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "amino_acid_metabolism_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "peripheral_nerve_disorders_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "aphasia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "toddler_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "potassium_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "metabolic_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hiccups_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bowel_movement_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carbohydrate_metabolism_disorders_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "How can I have a healthy pregnancy?",
+    "labels": [
+      {
+        "chunk_id": "pregnancy_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "birth_defects_c6",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "diabetes_and_pregnancy_c7",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "nutrition_for_older_adults_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pregnancy_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "pregnancy_and_nutrition_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "diabetes_and_pregnancy_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "preconception_care_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "weight_control_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "body_weight_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "prenatal_care_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "pregnancy_and_substance_use_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "pregnancy_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "hiv_and_pregnancy_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "weight_control_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "teen_sexual_health_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pregnancy_and_nutrition_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "fetal_health_and_development_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "bone_density_c3",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "What are blood thinners and it's types?",
+    "labels": [
+      {
+        "chunk_id": "blood_clots_c7",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "rh_incompatibility_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_count_tests_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_thinners_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "vascular_diseases_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "atrial_fibrillation_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_thinners_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_clots_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pulmonary_embolism_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "cholesterol_medicines_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vitamin_e_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vitamin_k_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "drug_reactions_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_thinners_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "hemophilia_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "transient_ischemic_attack_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Are there any side effect of blood thinners?",
+    "labels": [
+      {
+        "chunk_id": "blood_clots_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "prediabetes_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "birth_control_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hypoglycemia_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_clots_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pulmonary_embolism_c6",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "blood_thinners_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "bleeding_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "atrial_fibrillation_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_thinners_c3",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "transient_ischemic_attack_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_clots_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_thinners_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_lower_cholesterol_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "caffeine_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "drug_reactions_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ebola_c4",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "How can blood clots affect my health?",
+    "labels": [
+      {
+        "chunk_id": "guide_to_good_posture_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "eye_care_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diabetes_and_pregnancy_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_clots_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "blood_clots_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "kawasaki_disease_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_thinners_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "bleeding_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_thinners_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_improve_mental_health_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "stress_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "mental_health_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "caregiver_health_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_clots_c4",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "bleeding_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "blood_clots_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "bleeding_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cholesterol_c8",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "How can I get help while living at home?",
+    "labels": [
+      {
+        "chunk_id": "home_care_services_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "healthy_living_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "intimate_partner_violence_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "home_care_services_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "health_risks_of_an_inactive_lifestyle_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "radon_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "nutrition_for_older_adults_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "antidepressants_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "radon_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemorrhoids_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemorrhoids_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "prenatal_care_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_improve_mental_health_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "postpartum_depression_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "caregiver_health_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "rehabilitation_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "alzheimer's_caregivers_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "health_risks_of_an_inactive_lifestyle_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "postpartum_depression_c4",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "What causes a barking cough in children?",
+    "labels": [
+      {
+        "chunk_id": "cough_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "croup_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "whooping_cough_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "throat_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "cold_and_cough_medicines_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "childhood_leukemia_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "whooping_cough_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "reflux_in_children_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "common_cold_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "reflux_in_children_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "asthma_in_children_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "asthma_in_children_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "tetanus,_diphtheria,_and_pertussis_vaccines_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "cold_and_cough_medicines_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "acute_bronchitis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "asthma_in_children_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "whooping_cough_c3",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "how does vitamin E helps and what are the common sources to get it?",
+    "labels": [
+      {
+        "chunk_id": "vitamin_d_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vitamin_d_deficiency_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "understanding_medical_research_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "antioxidants_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "vitamin_d_deficiency_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vitamin_e_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "vitamins_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "vitamin_d_deficiency_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vaccine_safety_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vitamins_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "antioxidants_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "vitamin_k_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vitamin_c_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vitamin_a_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "What is pheochromocytoma?",
+    "labels": [
+      {
+        "chunk_id": "progressive_supranuclear_palsy_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "adrenal_gland_disorders_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "pulmonary_hypertension_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "prostate_diseases_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "klinefelter_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pituitary_tumors_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "gastroenteritis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "adrenal_gland_disorders_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "adrenal_gland_cancer_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "adrenal_gland_disorders_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pheochromocytoma_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "adrenal_gland_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hepatitis_a_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diverticulosis_and_diverticulitis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "blood_glucose_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "neuroblastoma_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hodgkin_lymphoma_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "infectious_mononucleosis_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "von_hippel-lindau_disease_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hepatitis_b_c1",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "What foods are high in potassium?",
+    "labels": [
+      {
+        "chunk_id": "how_to_prevent_high_blood_pressure_c8",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "diabetic_diet_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "minerals_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "nutrition_for_older_adults_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diabetic_diet_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "gout_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "potassium_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "diabetic_foot_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "diabetic_diet_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hdl_the_good_cholesterol_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "potassium_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "sodium_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_cholesterol_in_children_and_teens_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_lower_cholesterol_with_diet_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "calcium_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hemorrhoids_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carbohydrates_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "how_to_lower_cholesterol_with_diet_c4",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "what is down syndrome and it's cause?",
+    "labels": [
+      {
+        "chunk_id": "down_syndrome_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "learning_disabilities_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "atrial_fibrillation_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "high_blood_pressure_in_pregnancy_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sjogren's_syndrome_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "birth_defects_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "paget's_disease_of_bone_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "autoimmune_diseases_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "down_syndrome_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "fainting_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "birth_defects_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "hypothyroidism_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "down_syndrome_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "down_syndrome_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "turner_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "premenstrual_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "down_syndrome_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "disabilities_c2",
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Why are some babies born with genetic conditions?",
+    "labels": [
+      {
+        "chunk_id": "prostate_cancer_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "sickle_cell_disease_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "amino_acid_metabolism_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "twins,_triplets,_multiple_births_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "birth_defects_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "genetic_testing_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "ovarian_cancer_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "lipid_metabolism_disorders_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "childhood_vaccines_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "genetic_brain_disorders_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "down_syndrome_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "genetic_disorders_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "circumcision_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carbohydrate_metabolism_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "breast_cancer_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "down_syndrome_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "developmental_disabilities_c2",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "What precautions should someone follow before giving medicines to children?",
+    "labels": [
+      {
+        "chunk_id": "medicines_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "cold_and_cough_medicines_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "over-the-counter_medicines_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "medicines_and_children_c3",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "c._diff_infections_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "respiratory_syncytial_virus_infections_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "reproductive_hazards_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "medicines_and_children_c2",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "colonoscopy_c4",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "safe_opioid_use_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "common_cold_c3",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "sudden_cardiac_arrest_c8",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "asthma_in_children_c6",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "medicines_and_children_c1",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "medication_errors_c1",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "what is calcium and how much exactly i need daily?",
+    "labels": [
+      {
+        "chunk_id": "pregnancy_and_nutrition_c5",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "calcium_c1",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "calcium_c4",
+        "relevance": 2
+      },
+      {
+        "chunk_id": "minerals_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "calcium_c3",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "vitamin_d_deficiency_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "calcium_c5",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "oil_spills_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "parathyroid_disorders_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vitamin_d_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "carbohydrates_c7",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "pelvic_inflammatory_disease_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "calcium_c2",
+        "relevance": 1
+      },
+      {
+        "chunk_id": "pregnancy_and_nutrition_c3",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "premenstrual_syndrome_c1",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "vitamin_d_deficiency_c2",
+        "relevance": 0
+      },
+      {
+        "chunk_id": "acne_c1",
+        "relevance": 0
+      }
+    ]
+  }
+]

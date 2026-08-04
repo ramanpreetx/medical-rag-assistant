@@ -1,0 +1,9 @@
+Creutzfeldt-Jakob disease (CJD) is a rare, degenerative brain disorder . Symptoms usually start around age 60. Memory problems, behavior changes, vision problems, and poor muscle coordination progress quickly to dementia , coma, and death. Most patients die within a year.
+
+The three main categories of CJD are  :
+
+- Sporadic CJD, which occurs for no known reason
+- Hereditary CJD, which runs in families
+- Acquired CJD, which occurs from contact with infected tissue, usually during a medical procedure
+
+Cattle can get a disease related to CJD called bovine spongiform encephalopathy (BSE) or "mad cow disease."  There is concern that people can get a variant of CJD from eating beef from an infected animal, but there is no direct proof to support this.

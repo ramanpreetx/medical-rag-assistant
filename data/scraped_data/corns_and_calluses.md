@@ -1,0 +1,3 @@
+Corns and calluses are caused by pressure or friction on your skin. They often appear on feet where the bony parts of your feet rub against your shoes. Corns usually appear on the tops or sides of toes while calluses form on the soles of feet. Calluses also can appear on hands or other areas that are rubbed or pressed.
+
+Wearing shoes that fit better or using non-medicated pads may help. While bathing, gently rub the corn or callus with a washcloth or pumice stone to help reduce the size. To avoid infection, do not try to shave off the corn or callus. See your doctor, especially if you have diabetes or circulation problems.

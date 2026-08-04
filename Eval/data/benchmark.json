@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "question": "What causes obesity?"
+    },
+    {
+        "id": 2,
+        "question": "What is the best treatment for obesity?"
+    },
+    {
+        "id": 3,
+        "question": "Does obesity increase the risk of cancer?"
+    },
+    {
+        "id": 4,
+        "question": "How is obesity diagnosed?"
+    },
+    {
+        "id": 5,
+        "question": "what are the symptoms of multiple myeloma?"
+    },
+    {
+        "id": 6,
+        "question": "What exactly is an ectopic pregnancy?"
+    },
+    {
+        "id": 7,
+        "question": "what are the early signs of ectopic pregnancy?"
+    },
+    {
+        "id": 8,
+        "question": "Do nursing homes provide 24-hour care?"
+    },
+    {
+        "id": 9,
+        "question": "Do nursing homes provide medical care?"
+    },
+    {
+        "id": 10,
+        "question": "Should I shave off a corn or callus?"
+    },
+    {
+        "id": 11,
+        "question": "What happens during bypass surgery?"
+    },
+    {
+        "id": 12,
+        "question": "what is bypass surgery and what causes it?"
+    },
+    {
+        "id": 13,
+        "question": "Can I have another blocked artery after bypass surgery?"
+    },
+    {
+        "id": 14,
+        "question": "what is tinea and ist symptoms?"
+    },
+    {
+        "id": 15,
+        "question": "what is rh factor?"
+    },
+    {
+        "id": 16,
+        "question": "what causes rh incompatibility?"
+    },
+    {
+        "id": 17,
+        "question": "Can Rh incompatibility affect my baby?"
+    },
+    {
+        "id": 18,
+        "question": "How does health insurance work?"
+    },
+    {
+        "id": 19,
+        "question": "Why does it hurt when I swallow?"
+    },
+    {
+        "id": 20,
+        "question": "How is a swallowing disorder treated?"
+    },
+    {
+        "id": 21,
+        "question": "who is most likely to get facial paralysis?"
+    },
+    {
+        "id": 22,
+        "question": "How long does it take to recover from bell's palsy?"
+    },
+    {
+        "id": 23,
+        "question": "How do I know if I have high blood pressure?"
+    },
+    {
+        "id": 24,
+        "question": "Is high blood pressure dangerous?"
+    },
+    {
+        "id": 25,
+        "question": "How can I lower my blood pressure?"
+    },
+    {
+        "id": 26,
+        "question": "How do doctors check for high blood pressure?"
+    },
+    {
+        "id": 27,
+        "question": "How are pituitary tumors treated?"
+    },
+    {
+        "id": 28,
+        "question": "What is a pituitary tumor?"
+    },
+    {
+        "id": 29,
+        "question": "Is marijuana is dangerous for health?"
+    },
+    {
+        "id": 30,
+        "question": "Can marijuana treat diseases?"
+    },
+    {
+        "id": 31,
+        "question": "What are the early treatments for meningitis?"
+    },
+    {
+        "id": 32,
+        "question": "Why is my wrist swollen?"
+    },
+    {
+        "id": 33,
+        "question": "Will I need an X-ray for my swollen wrist?"
+    },
+    {
+        "id": 34,
+        "question": "Treatments for wrist pain?"
+    },
+    {
+        "id": 35,
+        "question": "What is tetanus?"
+    },
+    {
+        "id": 36,
+        "question": "what causes facial pain?"
+    },
+    {
+        "id": 37,
+        "question": "what is anemia?"
+    },
+    {
+        "id": 38,
+        "question": "what causes anemia?"
+    },
+    {
+        "id": 39,
+        "question": "what is HIV?"
+    },
+    {
+        "id": 40,
+        "question": "what is opportunistic infection (OIs)?"
+    },
+    {
+        "id": 41,
+        "question": "what are the different causes of OIs?"
+    },
+    {
+        "id": 42,
+        "question": "can OIs be prevented?"
+    },
+    {
+        "id": 43,
+        "question": "What is hemophilia?"
+    },
+    {
+        "id": 44,
+        "question": "What causes hemophilia?"
+    },
+    {
+        "id": 45,
+        "question": "How is hemophilia treated?"
+    },
+    {
+        "id": 46,
+        "question": "Why is there blood in my urine?"
+    },
+    {
+        "id": 47,
+        "question": "What is tonsillitis?"
+    },
+    {
+        "id": 48,
+        "question": "What causes tonsillitis?"
+    },
+    {
+        "id": 49,
+        "question": "What are the symptoms of tonsillitis?"
+    },
+    {
+        "id": 50,
+        "question": "what is cervical cancer?"
+    },
+    {
+        "id": 51,
+        "question": "How do I clean my dentures?"
+    },
+    {
+        "id": 52,
+        "question": "What are dentures?"
+    },
+    {
+        "id": 53,
+        "question": "what cause paralysis?"
+    },
+    {
+        "id": 54,
+        "question": "what is valley fever and how to treat it?"
+    },
+    {
+        "id": 55,
+        "question": "Who is most likely to get Valley fever?"
+    },
+    {
+        "id": 56,
+        "question": "What is a carbohydrate metabolism disorder?"
+    },
+    {
+        "id": 57,
+        "question": "Can metabolic disorders be inherited?"
+    },
+    {
+        "id": 58,
+        "question": "What if I want to get pregnant and my partner has HIV?"
+    },
+    {
+        "id": 59,
+        "question": "If I have HIV, how can I prevent giving it to my baby?"
+    },
+    {
+        "id": 60,
+        "question": "What is a cataract and it's cause?"
+    },
+    {
+        "id": 61,
+        "question": "Why is my vision blurry?"
+    },
+    {
+        "id": 62,
+        "question": "How are cataracts treated?"
+    },
+    {
+        "id": 63,
+        "question": "When do I need eye surgery?"
+    },
+    {
+        "id": 64,
+        "question": "Why is my skin red and itchy?"
+    },
+    {
+        "id": 65,
+        "question": "What can cause pain or problems in my abdomen?"
+    },
+    {
+        "id": 66,
+        "question": "Can a head injury affect my memory?"
+    },
+    {
+        "id": 67,
+        "question": "what are the symptoms of TBI?"
+    },
+    {
+        "id": 68,
+        "question": "How is a brain injury treated?"
+    },
+    {
+        "id": 69,
+        "question": "Can you get cancer while pregnant?"
+    },
+    {
+        "id": 70,
+        "question": "Why am I having trouble walking?"
+    },
+    {
+        "id": 71,
+        "question": "Is there a cure for Friedreich ataxia?"
+    },
+    {
+        "id": 72,
+        "question": "what is Hantavirus and its symptoms?"
+    },
+    {
+        "id": 73,
+        "question": "What is menopause and what are its symptoms?"
+    },
+    {
+        "id": 74,
+        "question": "Why am I having trouble breathing?"
+    },
+    {
+        "id": 75,
+        "question": "can breathing smoke damage my lungs?"
+    },
+    {
+        "id": 76,
+        "question": "How are inhalation injuries treated?"
+    },
+    {
+        "id": 77,
+        "question": "How does climate change affect health?"
+    },
+    {
+        "id": 78,
+        "question": "what is HPV and how it can be diagnosed?"
+    },
+    {
+        "id": 79,
+        "question": "What is Addison disease?"
+    },
+    {
+        "id": 80,
+        "question": "What causes walking problems?"
+    },
+    {
+        "id": 81,
+        "question": "What can help me walk better?"
+    },
+    {
+        "id": 82,
+        "question": "Why is my blood pressure suddenly very low?"
+    },
+    {
+        "id": 83,
+        "question": "Is shock life-threatening?"
+    },
+    {
+        "id": 84,
+        "question": "what causes long term stress and how i can overcome it?"
+    },
+    {
+        "id": 85,
+        "question": "what are common mouth problems and how i can prevent them?"
+    },
+    {
+        "id": 86,
+        "question": "what are the different medicines that can lower blood pressure and how they work?"
+    },
+    {
+        "id": 87,
+        "question": "what is PKU?"
+    },
+    {
+        "id": 88,
+        "question": "How can I have a healthy pregnancy?"
+    },
+    {
+        "id": 89,
+        "question": "What are blood thinners and it's types?"
+    },
+    {
+        "id": 90,
+        "question": "Are there any side effect of blood thinners?"
+    },
+    {
+        "id": 91,
+        "question": "How can blood clots affect my health?"
+    },
+    {
+        "id": 92,
+        "question": "How can I get help while living at home?"
+    },
+    {
+        "id": 93,
+        "question": "What causes a barking cough in children?"
+    },
+    {
+        "id": 94,
+        "question": "how does vitamin E helps and what are the common sources to get it?"
+    },
+    {
+        "id": 95,
+        "question": "What is pheochromocytoma?"
+    },
+    {
+        "id": 96,
+        "question": "What foods are high in potassium?"
+    },
+    {
+        "id": 97,
+        "question": "what is down syndrome and it's cause?"
+    },
+    {
+        "id": 98,
+        "question": "Why are some babies born with genetic conditions?"
+    },
+    {
+        "id": 99,
+        "question": "What precautions should someone follow before giving medicines to children?"
+    },
+    {
+        "id": 100,
+        "question": "what is calcium and how much exactly i need daily?"
+    }
+]

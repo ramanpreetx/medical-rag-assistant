@@ -1,0 +1,10 @@
+Having a pain in your chest can be scary.  It does not always mean that you are having a heart attack .  There can be many other causes, including:
+
+- Other heart problems, such as angina
+- Panic attacks
+- Digestive problems, such as heartburn or esophagus disorders
+- Sore muscles
+- Lung diseases, such as pneumonia , pleurisy , or pulmonary embolism
+- Costochondritis - an inflammation of joints in your chest
+
+Some of these problems can be serious.  Get immediate medical care if you have chest pain that does not go away, crushing pain or pressure in the chest, or chest pain along with nausea, sweating, dizziness or shortness of breath. Treatment depends on the cause of the pain.

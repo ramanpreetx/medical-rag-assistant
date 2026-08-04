@@ -1,0 +1,4 @@
+label,Total,Minimum,Q1,Median,Mean,Q3,Maximum,Std
+medical,50,0.0476,0.9536,0.9885,0.9207,0.9969,0.9999,0.1871
+out_of_domain,50,0.0,0.0001,0.0004,0.0351,0.0026,0.8069,0.1398
+out_of_domain_related_medical,50,0.0005,0.0108,0.0286,0.1065,0.1067,0.6852,0.1697

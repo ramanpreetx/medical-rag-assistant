@@ -1,0 +1,151 @@
+question,label,top_score
+Why is my blood pressure suddenly very low?,medical,0.9804505109786987
+what is rh factor?,medical,0.9975898265838623
+How is obesity diagnosed?,medical,0.6200704574584961
+What is pheochromocytoma?,medical,0.9988419413566589
+what causes facial pain?,medical,0.9968796968460083
+Why is my wrist swollen?,medical,0.9437605142593384
+Is marijuana is dangerous for health?,medical,0.9842536449432373
+How does health insurance work?,medical,0.6992809772491455
+what is tinea and ist symptoms?,medical,0.9264130592346191
+what is PKU?,medical,0.996799111366272
+Why am I having trouble walking?,medical,0.9535881280899048
+what is bypass surgery and what causes it?,medical,0.9115990400314331
+How are inhalation injuries treated?,medical,0.9995794892311096
+Who is most likely to get Valley fever?,medical,0.9853606820106506
+what are the symptoms of multiple myeloma?,medical,0.9994307160377502
+Why are some babies born with genetic conditions?,medical,0.44204065203666687
+What are blood thinners and it's types?,medical,0.9954843521118164
+What is a pituitary tumor?,medical,0.9798415899276733
+Can marijuana treat diseases?,medical,0.7965590357780457
+What can cause pain or problems in my abdomen?,medical,0.9680637121200562
+what is HPV and how it can be diagnosed?,medical,0.9757769703865051
+what are common mouth problems and how i can prevent them?,medical,0.9891073107719421
+what is Hantavirus and its symptoms?,medical,0.9966866374015808
+How do doctors check for high blood pressure?,medical,0.9878786206245422
+Are there any side effect of blood thinners?,medical,0.998712420463562
+what is valley fever and how to treat it?,medical,0.9904638528823853
+how does vitamin E helps and what are the common sources to get it?,medical,0.9549274444580078
+What if I want to get pregnant and my partner has HIV?,medical,0.9995700716972351
+What foods are high in potassium?,medical,0.9968085885047913
+What causes obesity?,medical,0.9554468989372253
+who is most likely to get facial paralysis?,medical,0.9943075776100159
+How can blood clots affect my health?,medical,0.9440648555755615
+What causes hemophilia?,medical,0.9985491633415222
+What causes walking problems?,medical,0.9991070628166199
+How is a swallowing disorder treated?,medical,0.9841497540473938
+Is shock life-threatening?,medical,0.9939939379692078
+How is a brain injury treated?,medical,0.9999233484268188
+what are the early signs of ectopic pregnancy?,medical,0.9989581108093262
+What exactly is an ectopic pregnancy?,medical,0.9823466539382935
+How can I lower my blood pressure?,medical,0.9934024214744568
+When do I need eye surgery?,medical,0.047639381140470505
+How do I know if I have high blood pressure?,medical,0.9907572865486145
+Can you get cancer while pregnant?,medical,0.29933056235313416
+"If I have HIV, how can I prevent giving it to my baby?",medical,0.9973402619361877
+what is HIV?,medical,0.9940317273139954
+Can Rh incompatibility affect my baby?,medical,0.9973067045211792
+What are dentures?,medical,0.9461445808410645
+Does obesity increase the risk of cancer?,medical,0.9037875533103943
+What is tonsillitis?,medical,0.9935142993927002
+what is calcium and how much exactly i need daily?,medical,0.9536680579185486
+Who won the FIFA World Cup in 2022?,out_of_domain,3.7434703699545935e-05
+What is the capital city of France?,out_of_domain,0.0006820022244937718
+How do I fix a slow laptop?,out_of_domain,0.0027595809660851955
+What is the best programming language to learn in 2026?,out_of_domain,8.609156066086143e-05
+Who is the current president of the United States?,out_of_domain,3.741828550118953e-05
+How can I learn Python from beginner level?,out_of_domain,0.009624839760363102
+What is the weather forecast for tomorrow?,out_of_domain,0.03016318380832672
+How do I make a chocolate cake?,out_of_domain,0.0005392043385654688
+What are the best smartphones under 200 dollars?,out_of_domain,7.136468775570393e-05
+How do I start investing in stocks?,out_of_domain,6.731006578775123e-05
+What is the meaning of artificial intelligence?,out_of_domain,0.0005482839769683778
+Who invented the telephone?,out_of_domain,0.0002945462765637785
+How do I learn machine learning?,out_of_domain,0.00027523687458597124
+What is the tallest building in the world?,out_of_domain,0.0012969872914254665
+How can I improve my English speaking skills?,out_of_domain,0.03212311491370201
+What are the best tourist places in India?,out_of_domain,0.00044785026693716645
+How does cryptocurrency work?,out_of_domain,0.0230821892619133
+What is the formula for calculating compound interest?,out_of_domain,0.00040787746547721326
+How do I create a website?,out_of_domain,0.012825137935578823
+What are the rules of chess?,out_of_domain,0.001358641660772264
+Who is the fastest runner in the world?,out_of_domain,4.9177935579791665e-05
+How do airplanes fly?,out_of_domain,0.10044224560260773
+What is the history of the internet?,out_of_domain,0.0003713172918651253
+How do I change my WiFi password?,out_of_domain,3.74318115063943e-05
+What is the best way to prepare for a job interview?,out_of_domain,0.005935352295637131
+How do I build a gaming PC?,out_of_domain,0.002243256429210305
+What is the difference between Python and Java?,out_of_domain,8.792740845819935e-05
+How do I solve a quadratic equation?,out_of_domain,6.246334669413045e-05
+What are the benefits of renewable energy?,out_of_domain,0.8069089651107788
+Who discovered gravity?,out_of_domain,3.7406371120596305e-05
+How do I delete my Instagram account?,out_of_domain,3.742631815839559e-05
+What movies are popular this year?,out_of_domain,3.799327532760799e-05
+How can I start a small business?,out_of_domain,0.0003870978835038841
+What is the best laptop for students?,out_of_domain,0.00017976659000851214
+How does a car engine work?,out_of_domain,0.00011634280235739425
+What is the population of China?,out_of_domain,0.0023080967366695404
+How do I prepare for a mathematics exam?,out_of_domain,0.011064555495977402
+What are the most popular programming frameworks?,out_of_domain,3.7556066672550514e-05
+How do I recover a forgotten password?,out_of_domain,0.113596610724926
+What is quantum computing?,out_of_domain,0.0002847749274224043
+How do I make homemade pizza?,out_of_domain,0.0014219032600522041
+Who won the last Olympic gold medal in swimming?,out_of_domain,0.0005546408356167376
+What are the best books to read?,out_of_domain,0.003431724850088358
+How do I improve my photography skills?,out_of_domain,0.0013409588718786836
+What is blockchain technology?,out_of_domain,0.0002241931069875136
+How do I travel cheaply around Europe?,out_of_domain,0.0012675878824666142
+What are the advantages of electric cars?,out_of_domain,0.5855786800384521
+How do I create a mobile application?,out_of_domain,0.00037567844265140593
+What is the history of World War II?,out_of_domain,3.741975160664879e-05
+How do I learn graphic design?,out_of_domain,0.00013787309580948204
+What is the best hospital in the world for heart surgery?,out_of_domain_related_medical,0.0292984489351511
+What is the average cost of cancer treatment in the United States?,out_of_domain_related_medical,0.03629195690155029
+Which doctor is the best for treating diabetes?,out_of_domain_related_medical,0.35991165041923523
+What are the latest medical breakthroughs in 2026?,out_of_domain_related_medical,0.009348578751087189
+Who is the world's most famous surgeon?,out_of_domain_related_medical,0.0005104580777697265
+What is the success rate of a new experimental cancer drug?,out_of_domain_related_medical,0.0010024551302194595
+What are the newest vaccines released this year?,out_of_domain_related_medical,0.024546002969145775
+Which country has the best healthcare system?,out_of_domain_related_medical,0.04970851540565491
+What medical insurance should I buy for my family?,out_of_domain_related_medical,0.18274277448654175
+How much does a kidney transplant cost?,out_of_domain_related_medical,0.01641971990466118
+What is the best diet plan for weight loss in 30 days?,out_of_domain_related_medical,0.2683320641517639
+What supplements should I take to build muscle?,out_of_domain_related_medical,0.1467844396829605
+Which protein powder is the healthiest?,out_of_domain_related_medical,0.0031389438081532717
+What are the best fitness exercises for beginners?,out_of_domain_related_medical,0.4368922710418701
+Can artificial intelligence replace doctors?,out_of_domain_related_medical,0.0775914415717125
+What is the future of robotic surgery?,out_of_domain_related_medical,0.02920406125485897
+Who invented the MRI machine?,out_of_domain_related_medical,0.005606422200798988
+What is the history of modern medicine?,out_of_domain_related_medical,0.02837018482387066
+Which country produces the most medicines?,out_of_domain_related_medical,0.02880796417593956
+What are the top pharmaceutical companies in the world?,out_of_domain_related_medical,0.012458638288080692
+What is the newest treatment for Alzheimer's disease?,out_of_domain_related_medical,0.44191521406173706
+What medicine is currently trending for diabetes treatment?,out_of_domain_related_medical,0.2956521213054657
+What is the price of insulin in different countries?,out_of_domain_related_medical,0.002290142234414816
+Which country has the highest cancer survival rate?,out_of_domain_related_medical,0.006021848879754543
+What are celebrity doctors recommending for health?,out_of_domain_related_medical,0.0057902405969798565
+What is the healthiest food according to scientists?,out_of_domain_related_medical,0.49935293197631836
+What is the best smartwatch for tracking health?,out_of_domain_related_medical,0.003463790286332369
+Can smart devices diagnose diseases?,out_of_domain_related_medical,0.21132801473140717
+What are the newest medical technologies?,out_of_domain_related_medical,0.017995569854974747
+How can I book an appointment with a specialist?,out_of_domain_related_medical,0.04096188396215439
+Which medical school is the best in the world?,out_of_domain_related_medical,0.00618179515004158
+Who is the highest paid doctor in the world?,out_of_domain_related_medical,0.0009938206057995558
+What are the medical laws in my country?,out_of_domain_related_medical,0.05614957958459854
+What health apps are recommended for monitoring diseases?,out_of_domain_related_medical,0.02027600072324276
+What is the best wearable device for heart monitoring?,out_of_domain_related_medical,0.0748380571603775
+What are the latest clinical trials for cancer?,out_of_domain_related_medical,0.63801109790802
+How can I participate in medical research?,out_of_domain_related_medical,0.10671725124120712
+What are the newest drugs approved by the FDA?,out_of_domain_related_medical,0.14572080969810486
+What is the most expensive medicine in the world?,out_of_domain_related_medical,0.012827909551560879
+What are the side effects of a medicine called Ozempic?,out_of_domain_related_medical,0.061945054680109024
+What is the best hospital for brain surgery?,out_of_domain_related_medical,0.018821943551301956
+What are doctors saying about longevity research?,out_of_domain_related_medical,0.006042960565537214
+What is the latest research on aging?,out_of_domain_related_medical,0.01263299398124218
+How do I find a specialist near me?,out_of_domain_related_medical,0.01251138374209404
+What are the reviews of a particular hospital?,out_of_domain_related_medical,0.011023578234016895
+Which country has the cheapest medical treatment?,out_of_domain_related_medical,0.0183161199092865
+What are the newest treatments for obesity?,out_of_domain_related_medical,0.6851956844329834
+What are doctors recommending for improving immunity?,out_of_domain_related_medical,0.010788713581860065
+What is the best natural remedy for common diseases?,out_of_domain_related_medical,0.10652046650648117
+What are the latest discoveries in genetics?,out_of_domain_related_medical,0.04807617887854576

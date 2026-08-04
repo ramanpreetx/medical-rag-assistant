@@ -1,0 +1,11 @@
+Your salivary glands are in your mouth. You have three pairs of major salivary glands and hundreds of small (minor) glands. They make saliva (spit) and empty it into your mouth through openings called ducts. Saliva makes your food moist, which helps you chew and swallow. It helps you digest your food. It also cleans your mouth and contains antibodies that can kill germs.
+
+Problems with salivary glands can cause them to become irritated and swollen. You may have symptoms such as:
+
+- A bad taste in your mouth
+- Difficulty opening your mouth
+- Dry mouth
+- Pain in your face or mouth
+- Swelling of your face or neck
+
+Causes of salivary gland problems include infections, obstruction, or cancer . Problems can also be due to other disorders, such as mumps or Sjogren's syndrome .

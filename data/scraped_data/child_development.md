@@ -1,0 +1,5 @@
+As children grow older, they develop in several different ways. Child development includes physical, intellectual, social, and emotional changes.
+
+Children grow and mature at very different rates. It's hard to say what "normal" is.  There can be big differences in height, weight, and build among healthy children. Diet, exercise and genes are all factors. Some children begin puberty or are close to it before they are teenagers.
+
+Children start to become more independent from their parents.  They may rebel.  They also look outward - to their friends, who are usually of the same sex. Peer approval becomes very important. Your child may try new behaviors to be part of "the group." This can also be the time that parents or teachers recognize learning disabilities or behavioral problems in children. These problems can get worse as time goes on, so it is important to get help early.

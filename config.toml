@@ -1,0 +1,17 @@
+# Locks the app to a light theme regardless of the visitor's OS/browser
+# dark-mode preference. Without this, Streamlit auto-detects dark mode and
+# repaints its own chrome (header, sidebar toggle, bottom input wrapper)
+# dark, which fights the custom CSS in style.css.
+
+[theme]
+base = "light"
+primaryColor = "#1e4ed8"
+backgroundColor = "#f2f4f8"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#0f172a"
+font = "sans serif"
+
+[client]
+# Hides the "Deploy" button and hamburger menu at the native Streamlit
+# level, which is more reliable than hiding them with CSS alone.
+toolbarMode = "minimal"

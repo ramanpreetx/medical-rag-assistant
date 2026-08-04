@@ -1,0 +1,3 @@
+Bereavement is the period of grief and mourning after a death. When you grieve, it's part of the normal process of reacting to a loss. You may experience grief as a mental, physical, social or emotional reaction. Mental reactions can include anger, guilt, anxiety, sadness and despair. Physical reactions can include sleeping problems, changes in appetite, physical problems or illness.
+
+How long bereavement lasts can depend on how close you were to the person who died, if the person's death was expected and other factors. Friends, family and faith may be sources of support. Grief counseling or grief therapy is also helpful to some people.

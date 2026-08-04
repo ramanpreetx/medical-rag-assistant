@@ -1,0 +1,4 @@
+label,Total,Accepted,Rejected,Acceptance (%),Rejection (%)
+medical,50,50,0,100.0,0.0
+out_of_domain,50,4,46,8.0,92.0
+out_of_domain_related_medical,50,20,30,40.0,60.0

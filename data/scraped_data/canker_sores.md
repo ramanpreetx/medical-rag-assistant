@@ -1,0 +1,5 @@
+Canker sores are small, round sores in your mouth . They can be on the inside of your cheek, under your tongue, or in the back of your throat. They usually have a red edge and a gray center. They can be quite painful. They are not the same as cold sores , which are caused by herpes simplex.
+
+Canker sores aren't contagious. They may happen if you have a viral infection. They may also be triggered by stress, food allergies, lack of vitamins and minerals, hormonal changes or menstrual periods. In some cases the cause is unknown.
+
+In most cases, the sores go away by themselves. Some ointments, creams or rinses may help with the pain. Avoiding hot, spicy food while you have a canker sore also helps.

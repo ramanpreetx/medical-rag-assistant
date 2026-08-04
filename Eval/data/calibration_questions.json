@@ -1,0 +1,602 @@
+[
+    {
+        "question": "Why is my blood pressure suddenly very low?",
+        "label": "medical"
+    },
+    {
+        "question": "what is rh factor?",
+        "label": "medical"
+    },
+    {
+        "question": "How is obesity diagnosed?",
+        "label": "medical"
+    },
+    {
+        "question": "What is pheochromocytoma?",
+        "label": "medical"
+    },
+    {
+        "question": "what causes facial pain?",
+        "label": "medical"
+    },
+    {
+        "question": "Why is my wrist swollen?",
+        "label": "medical"
+    },
+    {
+        "question": "Is marijuana is dangerous for health?",
+        "label": "medical"
+    },
+    {
+        "question": "How does health insurance work?",
+        "label": "medical"
+    },
+    {
+        "question": "what is tinea and ist symptoms?",
+        "label": "medical"
+    },
+    {
+        "question": "what is PKU?",
+        "label": "medical"
+    },
+    {
+        "question": "Why am I having trouble walking?",
+        "label": "medical"
+    },
+    {
+        "question": "what is bypass surgery and what causes it?",
+        "label": "medical"
+    },
+    {
+        "question": "How are inhalation injuries treated?",
+        "label": "medical"
+    },
+    {
+        "question": "Who is most likely to get Valley fever?",
+        "label": "medical"
+    },
+    {
+        "question": "what are the symptoms of multiple myeloma?",
+        "label": "medical"
+    },
+    {
+        "question": "Why are some babies born with genetic conditions?",
+        "label": "medical"
+    },
+    {
+        "question": "What are blood thinners and it's types?",
+        "label": "medical"
+    },
+    {
+        "question": "What is a pituitary tumor?",
+        "label": "medical"
+    },
+    {
+        "question": "Can marijuana treat diseases?",
+        "label": "medical"
+    },
+    {
+        "question": "What can cause pain or problems in my abdomen?",
+        "label": "medical"
+    },
+    {
+        "question": "what is HPV and how it can be diagnosed?",
+        "label": "medical"
+    },
+    {
+        "question": "what are common mouth problems and how i can prevent them?",
+        "label": "medical"
+    },
+    {
+        "question": "what is Hantavirus and its symptoms?",
+        "label": "medical"
+    },
+    {
+        "question": "How do doctors check for high blood pressure?",
+        "label": "medical"
+    },
+    {
+        "question": "Are there any side effect of blood thinners?",
+        "label": "medical"
+    },
+    {
+        "question": "what is valley fever and how to treat it?",
+        "label": "medical"
+    },
+    {
+        "question": "how does vitamin E helps and what are the common sources to get it?",
+        "label": "medical"
+    },
+    {
+        "question": "What if I want to get pregnant and my partner has HIV?",
+        "label": "medical"
+    },
+    {
+        "question": "What foods are high in potassium?",
+        "label": "medical"
+    },
+    {
+        "question": "What causes obesity?",
+        "label": "medical"
+    },
+    {
+        "question": "who is most likely to get facial paralysis?",
+        "label": "medical"
+    },
+    {
+        "question": "How can blood clots affect my health?",
+        "label": "medical"
+    },
+    {
+        "question": "What causes hemophilia?",
+        "label": "medical"
+    },
+    {
+        "question": "What causes walking problems?",
+        "label": "medical"
+    },
+    {
+        "question": "How is a swallowing disorder treated?",
+        "label": "medical"
+    },
+    {
+        "question": "Is shock life-threatening?",
+        "label": "medical"
+    },
+    {
+        "question": "How is a brain injury treated?",
+        "label": "medical"
+    },
+    {
+        "question": "what are the early signs of ectopic pregnancy?",
+        "label": "medical"
+    },
+    {
+        "question": "What exactly is an ectopic pregnancy?",
+        "label": "medical"
+    },
+    {
+        "question": "How can I lower my blood pressure?",
+        "label": "medical"
+    },
+    {
+        "question": "When do I need eye surgery?",
+        "label": "medical"
+    },
+    {
+        "question": "How do I know if I have high blood pressure?",
+        "label": "medical"
+    },
+    {
+        "question": "Can you get cancer while pregnant?",
+        "label": "medical"
+    },
+    {
+        "question": "If I have HIV, how can I prevent giving it to my baby?",
+        "label": "medical"
+    },
+    {
+        "question": "what is HIV?",
+        "label": "medical"
+    },
+    {
+        "question": "Can Rh incompatibility affect my baby?",
+        "label": "medical"
+    },
+    {
+        "question": "What are dentures?",
+        "label": "medical"
+    },
+    {
+        "question": "Does obesity increase the risk of cancer?",
+        "label": "medical"
+    },
+    {
+        "question": "What is tonsillitis?",
+        "label": "medical"
+    },
+    {
+        "question": "what is calcium and how much exactly i need daily?",
+        "label": "medical"
+    },
+    {
+        "question": "Who won the FIFA World Cup in 2022?",
+        "label": "ood"
+    },
+    {
+        "question": "What is the capital city of France?",
+        "label": "ood"
+    },
+    {
+        "question": "How do I fix a slow laptop?",
+        "label": "ood"
+    },
+    {
+        "question": "What is the best programming language to learn in 2026?",
+        "label": "ood"
+    },
+    {
+        "question": "Who is the current president of the United States?",
+        "label": "ood"
+    },
+    {
+        "question": "How can I learn Python from beginner level?",
+        "label": "ood"
+    },
+    {
+        "question": "What is the weather forecast for tomorrow?",
+        "label": "ood"
+    },
+    {
+        "question": "How do I make a chocolate cake?",
+        "label": "ood"
+    },
+    {
+        "question": "What are the best smartphones under 200 dollars?",
+        "label": "ood"
+    },
+    {
+        "question": "How do I start investing in stocks?",
+        "label": "ood"
+    },
+    {
+        "question": "What is the meaning of artificial intelligence?",
+        "label": "ood"
+    },
+    {
+        "question": "Who invented the telephone?",
+        "label": "ood"
+    },
+    {
+        "question": "How do I learn machine learning?",
+        "label": "ood"
+    },
+    {
+        "question": "What is the tallest building in the world?",
+        "label": "ood"
+    },
+    {
+        "question": "How can I improve my English speaking skills?",
+        "label": "ood"
+    },
+    {
+        "question": "What are the best tourist places in India?",
+        "label": "ood"
+    },
+    {
+        "question": "How does cryptocurrency work?",
+        "label": "ood"
+    },
+    {
+        "question": "What is the formula for calculating compound interest?",
+        "label": "ood"
+    },
+    {
+        "question": "How do I create a website?",
+        "label": "ood"
+    },
+    {
+        "question": "What are the rules of chess?",
+        "label": "ood"
+    },
+    {
+        "question": "Who is the fastest runner in the world?",
+        "label": "ood"
+    },
+    {
+        "question": "How do airplanes fly?",
+        "label": "ood"
+    },
+    {
+        "question": "What is the history of the internet?",
+        "label": "ood"
+    },
+    {
+        "question": "How do I change my WiFi password?",
+        "label": "ood"
+    },
+    {
+        "question": "What is the best way to prepare for a job interview?",
+        "label": "ood"
+    },
+    {
+        "question": "How do I build a gaming PC?",
+        "label": "ood"
+    },
+    {
+        "question": "What is the difference between Python and Java?",
+        "label": "ood"
+    },
+    {
+        "question": "How do I solve a quadratic equation?",
+        "label": "ood"
+    },
+    {
+        "question": "What are the benefits of renewable energy?",
+        "label": "ood"
+    },
+    {
+        "question": "Who discovered gravity?",
+        "label": "ood"
+    },
+    {
+        "question": "How do I delete my Instagram account?",
+        "label": "ood"
+    },
+    {
+        "question": "What movies are popular this year?",
+        "label": "ood"
+    },
+    {
+        "question": "How can I start a small business?",
+        "label": "ood"
+    },
+    {
+        "question": "What is the best laptop for students?",
+        "label": "ood"
+    },
+    {
+        "question": "How does a car engine work?",
+        "label": "ood"
+    },
+    {
+        "question": "What is the population of China?",
+        "label": "ood"
+    },
+    {
+        "question": "How do I prepare for a mathematics exam?",
+        "label": "ood"
+    },
+    {
+        "question": "What are the most popular programming frameworks?",
+        "label": "ood"
+    },
+    {
+        "question": "How do I recover a forgotten password?",
+        "label": "ood"
+    },
+    {
+        "question": "What is quantum computing?",
+        "label": "ood"
+    },
+    {
+        "question": "How do I make homemade pizza?",
+        "label": "ood"
+    },
+    {
+        "question": "Who won the last Olympic gold medal in swimming?",
+        "label": "ood"
+    },
+    {
+        "question": "What are the best books to read?",
+        "label": "ood"
+    },
+    {
+        "question": "How do I improve my photography skills?",
+        "label": "ood"
+    },
+    {
+        "question": "What is blockchain technology?",
+        "label": "ood"
+    },
+    {
+        "question": "How do I travel cheaply around Europe?",
+        "label": "ood"
+    },
+    {
+        "question": "What are the advantages of electric cars?",
+        "label": "ood"
+    },
+    {
+        "question": "How do I create a mobile application?",
+        "label": "ood"
+    },
+    {
+        "question": "What is the history of World War II?",
+        "label": "ood"
+    },
+    {
+        "question": "How do I learn graphic design?",
+        "label": "ood"
+    },
+  {
+    "question": "What is the best hospital in the world for heart surgery?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What is the average cost of cancer treatment in the United States?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "Which doctor is the best for treating diabetes?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What are the latest medical breakthroughs in 2026?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "Who is the world's most famous surgeon?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What is the success rate of a new experimental cancer drug?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What are the newest vaccines released this year?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "Which country has the best healthcare system?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What medical insurance should I buy for my family?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "How much does a kidney transplant cost?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What is the best diet plan for weight loss in 30 days?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What supplements should I take to build muscle?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "Which protein powder is the healthiest?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What are the best fitness exercises for beginners?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "Can artificial intelligence replace doctors?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What is the future of robotic surgery?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "Who invented the MRI machine?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What is the history of modern medicine?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "Which country produces the most medicines?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What are the top pharmaceutical companies in the world?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What is the newest treatment for Alzheimer's disease?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What medicine is currently trending for diabetes treatment?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What is the price of insulin in different countries?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "Which country has the highest cancer survival rate?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What are celebrity doctors recommending for health?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What is the healthiest food according to scientists?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What is the best smartwatch for tracking health?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "Can smart devices diagnose diseases?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What are the newest medical technologies?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "How can I book an appointment with a specialist?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "Which medical school is the best in the world?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "Who is the highest paid doctor in the world?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What are the medical laws in my country?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What health apps are recommended for monitoring diseases?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What is the best wearable device for heart monitoring?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What are the latest clinical trials for cancer?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "How can I participate in medical research?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What are the newest drugs approved by the FDA?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What is the most expensive medicine in the world?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What are the side effects of a medicine called Ozempic?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What is the best hospital for brain surgery?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What are doctors saying about longevity research?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What is the latest research on aging?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "How do I find a specialist near me?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What are the reviews of a particular hospital?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "Which country has the cheapest medical treatment?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What are the newest treatments for obesity?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What are doctors recommending for improving immunity?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What is the best natural remedy for common diseases?",
+    "label": "out_of_domain_related_medical"
+  },
+  {
+    "question": "What are the latest discoveries in genetics?",
+    "label": "out_of_domain_related_medical"
+  }
+]
