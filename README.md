@@ -6,6 +6,10 @@ The system implements a complete RAG pipeline, including web scraping, document 
 
 Beyond building the application, the retrieval pipeline was systematically evaluated using **Precision@K**, **Recall@K**, **MRR**, and **nDCG**. Multiple retrieval configurations were compared to identify the most effective approach, with **FAISS similarity search combined with Cross-Encoder reranking** selected as the final retrieval pipeline. The project also includes reranker threshold calibration and response faithfulness evaluation.
 
+## Live Demo
+
+[Medical RAG Assistant](https://medical-rag-assistant-re4mvfxrem7xvjf6cs5gdd.streamlit.app/)
+
 ## Features
 
 - General medical question answering using RAG
