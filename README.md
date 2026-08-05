@@ -217,6 +217,10 @@ Medical-RAG-Assistant/
 - `ragas_medical_scores_top5.csv` – Faithfulness scores (Top-5)
 - `evaluation_report.md` – Detailed evaluation methodology and results
 
+For additional details about the evaluation methodology, experiments, and results, see the evaluation report:
+
+📄 [Evaluation Report](Eval/results/evaluation_report.md)
+
 ## Installation
 
 Clone the repository:
